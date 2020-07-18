@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GesturePrac</string>
+    <string name="show_video">Show Video</string>
+
+    <string-array name="gestureList">
+        <item>Buy</item>
+        <item>House</item>
+        <item>Hope</item>
+        <item>Fun</item>
+        <item>Arrive</item>
+        <item>Really</item>
+        <item>Read</item>
+        <item>Lip</item>
+        <item>Mouth</item>
+        <item>Some</item>
+        <item>Communicate</item>
+        <item>Write</item>
+        <item>Create</item>
+        <item>Pretend</item>
+        <item>Sister</item>
+        <item>Man</item>
+        <item>One</item>
+        <item>Drive</item>
+        <item>Perfect</item>
+        <item>Mother</item>
+    </string-array>
+    <string name="title_activity_seconnd">SeconndActivity</string>
+    <string name="practice">Practice</string>
+    <string name="view_video">View Video</string>
+    <string name="upload">Upload</string>
+    <string name="record">Record</string>
+</resources>
